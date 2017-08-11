@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Helper;
+namespace Codeception\Module;
 
 use Codeception\Configuration;
 use Codeception\Lib\Connector\ZF3 as ZF3Connector;
